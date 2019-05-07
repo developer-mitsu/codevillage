@@ -1,0 +1,10 @@
+{
+    "plugins": ["-sharing",
+                "hide-published-with",
+                "japanese-support",
+                "copy-code-button",
+                "expand-active-chapter",
+                "navigator",
+                "comment"],
+    "language": "ja"
+}
